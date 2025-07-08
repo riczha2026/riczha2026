@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Richard Zhang
 
-<!--
-**riczha2026/riczha2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Statistics & Data Science @ UC Santa Barbara** (Expected June 2026)  
+📚 **GPA**: 3.82  
+📊 **Business Analyst Intern @ TellCo Europe** | **AI/ML Intern @ 42robotsAI**  
+💼 Passionate about **financial analytics**, **risk modeling**, and **business intelligence**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📈 3+ years of experience in **data science**, **machine learning**, and **business analytics**
+- 🏢 Currently analyzing **35,000+ clients across 5,000 zip codes** at **TellCo Europe**
+- 🤖 Improved diagnostic accuracy by **13%** using **Random Forest algorithms**
+- 🎯 Open to **quantitative finance** and **data science/analytic** opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, R, SQL, Java, SAS  
+**ML/Analytics**: scikit-learn, Pandas, NumPy, ggplot2  
+**Specialties**: Risk Modeling, Predictive Analytics, Survival Analysis, Bayesian Methods
+
