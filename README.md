@@ -20,5 +20,5 @@
 
 **Languages**: Python, R, SQL, Java, SAS  
 **ML/Analytics**: scikit-learn, Pandas, NumPy, matplotlib, ggplot2  
-**Specialties**: Risk Modeling, Predictive Analytics, Survival Analysis, Bayesian Methods
+**Specialties**: Risk Modeling, Predictive Analytics, Survival Analysis, Bayesian Methods, Hypothesis Testing, Exploratory Data Analysis (EDA)
 
