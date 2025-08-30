@@ -2,7 +2,7 @@
 
 🎓 **Statistics & Data Science @ UC Santa Barbara** (Expected June 2026)  
 📚 **GPA**: 3.82  
-📊 **Business Analyst Intern @ TellCo Europe** | **AI/ML Intern @ 42robotsAI**  
+📊 **Business Analyst Intern @ TellCo Europe** | **AI/ML Intern @ 42robotsAI** | **Economic Development Intern @ City of Newark, Department of Economic Development**
 💼 Passionate about **financial analytics**, **risk modeling**, and **business intelligence**
 
 ---
