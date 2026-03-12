@@ -2,11 +2,11 @@
 
 **Statistics & Data Science @ UC Santa Barbara** | Graduating June 2026 | GPA: 3.82
 
-I build ETL pipelines, ML classifiers, and analytics systems that turn raw data into measurable outcomes. Check out my portfolio at **[richardzhang.netlify.app](https://richardzhang.netlify.app)**.
+Specializing in end-to-end data systems — from ETL pipelines and ML models to interactive dashboards — with a track record of turning complex datasets into decisions that drive real outcomes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-richard--zhang200-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/richard-zhang200)
-[![Portfolio](https://img.shields.io/badge/Portfolio-richardzhang.netlify.app-00C7B7?style=flat&logo=netlify)](https://richardzhang.netlify.app)
-[![Email](https://img.shields.io/badge/Email-riczha200%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:riczha200@gmail.com)
+<a href="https://linkedin.com/in/richard-zhang200"><img src="https://img.shields.io/badge/LinkedIn-richard--zhang200-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://richardzhang.netlify.app"><img src="https://img.shields.io/badge/Portfolio-richardzhang.netlify.app-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:riczha200@gmail.com"><img src="https://img.shields.io/badge/Email-riczha200%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
 
@@ -44,6 +44,12 @@ Queried 5K+ business records in SQL to surface underrepresented communities, ran
 
 ## 📌 Projects
 
+**[Google Web Graph — Social Network Analysis](https://github.com/riczha2026/PSTAT-194CS-Social-Network-Analysis-Final-Project)**
+Network analysis of the Stanford SNAP Google Web Graph dataset using R and igraph — examining large-scale directed graph structure, degree distributions, centrality metrics, and community detection across millions of web page links.
+
+**[Statistical Computing — RNG Project](https://github.com/riczha2026/statistical-computing-rng-project)**
+Computational implementation of advanced random number generation algorithms: Accept-Reject, Inverse Transform Sampling, and Transformation of Variables for nonstandard distributions.
+
 **[PBC Survival Analysis](https://github.com/riczha2026/PBC-Survival-Analysis)**
 Survival analysis system for Primary Biliary Cholangitis using real clinical data — Cox proportional hazards, Kaplan-Meier estimators, competing risk models, and time-dependent ROC validation.
 
@@ -55,9 +61,6 @@ Linear regression models exploring relationships between lifestyle choices, phys
 
 **[Pima Indian Research](https://github.com/riczha2026/Pima-Indian-Research)**
 ML study applying decision trees, regression, clustering, K-NN, Naive Bayes, and neural networks to analyze diabetes risk factors in the Pima Indian population.
-
-**[Statistical Computing — RNG Project](https://github.com/riczha2026/statistical-computing-rng-project)**
-Computational implementation of advanced random number generation algorithms: Accept-Reject, Inverse Transform Sampling, and Transformation of Variables for nonstandard distributions.
 
 ---
 
