@@ -1,4 +1,6 @@
 # Hi, I'm Richard Zhang 👋
+<img width="4000" height="5000" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
+
 **M.A. Statistics & Data Science @ UC Berkeley** *(Expected May 2027)* 
 
 **B.S. Statistics & Data Science @ UC Santa Barbara** *(2026)* | GPA: 3.82
