@@ -1,5 +1,8 @@
 # Hi, I'm Richard Zhang 👋
-**Statistics & Data Science @ UC Santa Barbara** | Graduating June 2026 | GPA: 3.82
+**M.A. Statistics & Data Science @ UC Berkeley** *(Expected May 2027)* 
+
+**B.S. Statistics & Data Science @ UC Santa Barbara** *(2026)* | GPA: 3.82
+
 Specializing in end-to-end data systems — from ETL pipelines and ML models to interactive dashboards — with a track record of turning complex datasets into decisions that drive real outcomes.
 
 <a href="https://linkedin.com/in/richard-zhang200">
@@ -62,4 +65,4 @@ Linear regression models exploring relationships between lifestyle choices, phys
 ML study applying decision trees, regression, clustering, K-NN, Naive Bayes, and neural networks to analyze diabetes risk factors in the Pima Indian population. Completed for the UCB Extension Data Science Program.
 
 ---
-📍 Newark, CA · Open to Data Science, ML, and Quantitative Analyst roles
+📍 Newark, CA · Open to Data Science, Machine Learning, Quantitative Analyst, Demand Planning, Data Analysis, and Research Roles
