@@ -1,9 +1,11 @@
 # Hi, I'm Richard Zhang 👋
-<img width="2000" height="2500" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
+
 
 **M.A. Statistics & Data Science @ UC Berkeley** *(Expected May 2027)* 
 
 **B.S. Statistics & Data Science @ UC Santa Barbara** *(2026)* | GPA: 3.82
+
+<img width="400" height="500" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
 
 Specializing in end-to-end data systems — from ETL pipelines and ML models to interactive dashboards — with a track record of turning complex datasets into decisions that drive real outcomes.
 
