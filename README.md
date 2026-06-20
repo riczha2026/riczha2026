@@ -4,9 +4,6 @@
 **M.A. Statistics & Data Science @ UC Berkeley** *(Expected May 2027)* 
 
 **B.S. Statistics & Data Science @ UC Santa Barbara** *(2026)* | GPA: 3.82
-
-<img width="400" height="500" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
-
 Specializing in end-to-end data systems — from ETL pipelines and ML models to interactive dashboards — with a track record of turning complex datasets into decisions that drive real outcomes.
 
 <a href="https://linkedin.com/in/richard-zhang200">
@@ -18,6 +15,9 @@ Specializing in end-to-end data systems — from ETL pipelines and ML models to 
 <a href="mailto:riczha200@gmail.com">
   <img src="https://img.shields.io/badge/Email-riczha200%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+
+<img width="400" height="500" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
 
 ---
 ## 🛠️ Tech Stack
