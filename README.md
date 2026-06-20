@@ -17,7 +17,9 @@ Specializing in end-to-end data systems — from ETL pipelines and ML models to 
 </a>
 
 
-<img width="400" height="500" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
+<br>
+
+<img width="300" height="375" alt="260520_18" src="https://github.com/user-attachments/assets/ea0118ba-534f-4d4f-8805-be6934d6d6e0" />
 
 ---
 ## 🛠️ Tech Stack
@@ -49,6 +51,12 @@ Queried and analyzed 5,000+ business records using SQL to identify underrepresen
 
 ---
 ## 📌 Projects
+
+**[Modeling San Francisco Crime — Time Series Analysis](https://github.com/riczha2026/SF-Crime-Time-Series)**
+SARIMA time series analysis of monthly reported San Francisco police incidents (2003–2015), forecasting crime activity 12 months ahead. Aggregated incident-level data into monthly counts, applied seasonal and regular differencing to achieve stationarity, and identified candidate models via ACF/PACF. Selected a SARIMA(1,1,1)(2,1,0)₁₂ model after extensive residual diagnostics (Shapiro-Wilk, Box-Pierce, Box-Ljung, McLeod-Li) — all held-out test observations fell within the 95% prediction interval.
+
+**[Lyft Bay Wheels — Bike-Share Data Analysis](https://github.com/riczha2026/Lyft-Bay-Wheels)**
+Analysis of trip-level data from Lyft's Bay Wheels bike-share system across the San Francisco Bay Area — examining how riding behavior varies by subscription status (member vs. casual) and time period (weekday vs. weekend). Applied two-sample permutation tests to assess differences in mean trip duration, modeled the trip duration–distance relationship via simple linear regression with assumption checks and a bootstrap confidence interval for the slope, and built a classification model predicting bike type (classic vs. electric) from trip features.
 
 **[Google Web Graph — Social Network Analysis](https://github.com/riczha2026/PSTAT-194CS-Social-Network-Analysis-Final-Project)**
 Network analysis of the Stanford SNAP Google Web Graph dataset using R and igraph — examining large-scale directed graph structure, degree distributions, centrality metrics, and community detection. Diagnosed zero-edge induced subgraphs on the sparse 875,000+ node graph and implemented a Random Walk algorithm to generate connected 200-node subgraphs. Visualized community structure using FR, Kamada-Kawai, and MDS layouts.
