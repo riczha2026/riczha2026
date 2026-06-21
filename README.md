@@ -10,7 +10,7 @@ Specializing in end-to-end data systems — from ETL pipelines and ML models to 
   <img src="https://img.shields.io/badge/LinkedIn-richard--zhang200-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://richardzhang-riczha2026s-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-richardzhang-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-richardzhang-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Website"/>
 </a>
 <a href="mailto:riczha200@gmail.com">
   <img src="https://img.shields.io/badge/Email-riczha200%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
